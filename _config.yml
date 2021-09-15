@@ -3,7 +3,7 @@ author:
   name: Tamar Blue
   email: tlb109@miami.edu
 description: > # this means to ignore newlines until "show_excerpts:"
-  El sitio de Tamar Blue.
+  El sitio de Tamar Blue. Voy a cambiar esto. 
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
