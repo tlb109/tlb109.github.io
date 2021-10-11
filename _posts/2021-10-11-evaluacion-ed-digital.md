@@ -10,12 +10,12 @@ El proyecto Becerro Galicano de San Millán de la Cogolla ofrece la edición dig
 La universidad que compiló este proyecto fue la Universidad del País Vasco y disfrutó de la. Financiación del se centro internacional de investigación de la lengua española de la universidad, una. Entidad que justamente se dedica a investigar textos históricos de España. Además, la Fundación San Millán de la Cogolla fue otra empresa que financió el proyecto. Su misión es preservar los textos antiguos en español, y qué mejor forma de hacerlo que convertirlos digitalmente.
 
 <img src="/assets/images/picture-2.jpg" alt="universidades" width="200" > 
-<img src="/assets/images/picture-5.jpg" alt="funcionarios" width="200" align="right" > 
+<img src="/assets/images/picture-4.jpg" alt="Claudio" width="200" align="right" > 
 En el apartado "Introducción,” podemos ver la lista de personas específicas que contribuyeron, dando los. Créditos a todos los participantes que trabajaron en el proyecto.
 
 Claudio Garcia Turza estuvo a cargo de la tesis de este proyecto. Se inició en 2009 cuando la edición digital recibió financiación de la Fundación Caja Rioja. La edición final se completó en 2013. Se realizó una conferencia para presentar el proyecto a los investigadores. Incluso incluyeron el itinerario de la conferencia dentro de la edición digital.
 
-<img src="/assets/images/picture-4.jpg" alt="Claudio" width="200" align="right" > 
+
 
 El Becerro Galicano es un texto muy importante para entender la integración del cristianismo en España desde el 700 hasta el 1100. Este proyecto está diseñado para que los investigadores estudien este período de tiempo. También es importante tener en cuenta que este texto está en latín, ya que este era el idioma en el que se escribía durante este período de tiempo en la Península Ibérica. Es por esto que este proyecto también fue creado para el estudio de la lengua, ya que esta escritura latina tuvo mucha influencia desde los inicios del castellano antiguo.
 
