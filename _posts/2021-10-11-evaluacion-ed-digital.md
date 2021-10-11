@@ -16,7 +16,7 @@ En el apartado "Introducción,” podemos ver la lista de personas específicas 
 Claudio Garcia Turza estuvo a cargo de la tesis de este proyecto. Se inició en 2009 cuando la edición digital recibió financiación de la Fundación Caja Rioja. La edición final se completó en 2013. Se realizó una conferencia para presentar el proyecto a los investigadores. Incluso incluyeron el itinerario de la conferencia dentro de la edición digital.
 
 
-<img src="/assets/images/picture-1.jpg" alt="Becerro" width="200" align="left" > 
+<img src="/assets/images/picture-1.png" alt="Becerro" width="200" align="left" > 
 El Becerro Galicano es un texto muy importante para entender la integración del cristianismo en España desde el 700 hasta el 1100. Este proyecto está diseñado para que los investigadores estudien este período de tiempo. También es importante tener en cuenta que este texto está en latín, ya que este era el idioma en el que se escribía durante este período de tiempo en la Península Ibérica. Es por esto que este proyecto también fue creado para el estudio de la lengua, ya que esta escritura latina tuvo mucha influencia desde los inicios del castellano antiguo.
 
 Este proyecto es un a especie de archivo digital con muchos elementos de diferente naturaleza. Por ejemplo, existen hipervínculos que llevan al texto, al formato digital, a la vista general, a las fuentes, e incluso incluye mapas para que el lector pueda ver la difusión del cristianismo en España según el texto. Creo que este proyecto es muy efectivo porque es fácil de usar y navegar. Además, es perfecto para visualizar la imagen completa de este manuscrito y convertirlo así casi en un texto moderno y fácil de seguir para los académicos.
