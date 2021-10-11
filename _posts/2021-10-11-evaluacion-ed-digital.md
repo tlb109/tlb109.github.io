@@ -9,7 +9,7 @@ Sitio de Web: <https://dig-ed-cat.acdh.oeaw.ac.at/editions/detail/14 -- http://w
 El proyecto Becerro Galicano de San Millán de la Cogolla ofrece la edición digital de un cartulario monástico escrito hacia 1195 en la célebre que lleva este nombre. 
 La universidad que compiló este proyecto fue la Universidad del País Vasco y disfrutó de la. Financiación del se centro internacional de investigación de la lengua española de la universidad, una. Entidad que justamente se dedica a investigar textos históricos de España. Además, la Fundación San Millán de la Cogolla fue otra empresa que financió el proyecto. Su misión es preservar los textos antiguos en español, y qué mejor forma de hacerlo que convertirlos digitalmente.
 
-<img src="/assets/images/picture-2" alt="universidades" width="500"> 
+<img src="/assets/images/picture-2" alt="universidades" width="200"> 
 
 En el apartado "Introducción,” podemos ver la lista de personas específicas que contribuyeron, dando los. Créditos a todos los participantes que trabajaron en el proyecto.
 
